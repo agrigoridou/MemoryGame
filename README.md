@@ -1,8 +1,6 @@
 # MemoryGame
 
-Is a simple memory game implemented in Java, where the player matches pairs of characters hidden in a grid. The game is designed with an object-oriented approach, using efficient data structures.
-
-The game board consists of a 4x5 grid (4 rows and 5 columns), with each cell containing a hidden character. The characters on the board are uppercase letters of the Latin alphabet (A–Z), placed randomly. There are 10 pairs of unique characters on the board.
+Is a simple memory game implemented in Java, where the player matches pairs of characters hidden in a grid. The game board consists of a 4x5 grid (4 rows and 5 columns), with each cell containing a hidden character. The characters on the board are uppercase letters of the Latin alphabet (A–Z), placed randomly. There are 10 pairs of unique characters on the board.
 
 ## Game Rules
 
