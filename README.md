@@ -36,9 +36,5 @@ In this scenario, the player successfully matches all character pairs within the
 
 ### Scenario 1: Losing the Game
 
-
 In this scenario, the player reaches four unsuccessful attempts without matching all pairs.
-<div align="center">
-    <img src="https://github.com/user-attachments/assets/b41be146-3cd3-4eec-9f6d-be267c484e4f" alt="Example GIF" >
-</div>
-![image](https://github.com/user-attachments/assets/b41be146-3cd3-4eec-9f6d-be267c484e4f)
+
