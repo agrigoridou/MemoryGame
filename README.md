@@ -55,9 +55,9 @@ F F G G H H I I J J
 
 Congratulations! You have matched all pairs!
 Total Rounds Played: 15
+'''
 
-
-### Scenario 1: Losing the Game
+### Scenario 2: Losing the Game
 
 In this scenario, the player reaches four unsuccessful attempts without matching all pairs.
 
