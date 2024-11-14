@@ -31,10 +31,58 @@ The project is organized into the following classes:
 
 In this scenario, the player successfully matches all character pairs within the allowed attempts.
 
+```plaintext
+Initial Board:
+* * * * *
+* * * * *
+* * * * *
+* * * * *
 
+Enter the first position (row and column): 1 1
+Enter the second position (row and column): 1 2
+
+Board after match:
+A A * * *
+* * * * *
+* * * * *
+* * * * *
+
+... (subsequent successful matches) ...
+
+Final Board:
+A A B B C C D D E E
+F F G G H H I I J J
+
+Congratulations! You have matched all pairs!
+Total Rounds Played: 15
 
 
 ### Scenario 1: Losing the Game
 
 In this scenario, the player reaches four unsuccessful attempts without matching all pairs.
+
+Initial Board:
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+
+Enter the first position (row and column): 1 1
+Enter the second position (row and column): 1 2
+
+Board after mismatch:
+A * * * *
+* * * * *
+* * * * *
+* * * * *
+
+Failed attempts: 1
+
+... (three more mismatches) ...
+
+Game Over! You reached four failed attempts.
+Final Board:
+A A B B C C D D E E
+F F G G H H I I J J
+Total Rounds Played: 12
 
