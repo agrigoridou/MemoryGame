@@ -50,8 +50,10 @@ A A * * *
 ... (subsequent successful matches) ...
 
 Final Board:
-A A B B C C D D E E
-F F G G H H I I J J
+A A B B C
+C D D E E
+F F G G H
+H I I J J
 
 Congratulations! You have matched all pairs!
 Total Rounds Played: 15
@@ -84,8 +86,11 @@ Failed attempts: 1
 
 Game Over! You reached four failed attempts.
 Final Board:
-A A B B C C D D E E
-F F G G H H I I J J
+A A B B C
+C D D E E
+F F G G H
+H I I J J
+
 Total Rounds Played: 12
 
 ```
